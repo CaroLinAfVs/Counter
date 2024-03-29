@@ -2,7 +2,7 @@ import Counter from './components/Counter';
 
 function App() {
   return (
-    <div className="">
+    <div className="flex justify-center items-center h-screen bg-white">
       <Counter />
     </div>
   );
